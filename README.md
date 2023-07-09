@@ -13,9 +13,8 @@ samples, guidance on mobile development, and a full API reference.
 3. Enter This command => git clone https://github.com/SASnigdho/pokemons_gql.git
 4. Enter This command => cd pokemons_gql
 5. Enter This command => flutter pub get
-6. Enter This command => flutter pub get
-7. After pub get complete open the directory (pokemons_gql) with VS Code.
-8. To run this app use ctrl+F5 to run the app.
+6. After pub get complete open the directory (pokemons_gql) with VS Code.
+7. To run this app use ctrl+F5 to run the app.
 
 
 
